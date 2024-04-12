@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50b432bb.css",
+    "main.js": "/static/js/main.06903838.js",
+    "static/js/511.81417624.chunk.js": "/static/js/511.81417624.chunk.js",
+    "static/media/cs.jpg": "/static/media/cs.997d3d450abdec6c0d16.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/lms.png": "/static/media/lms.12f739cf141e78e335aa.png",
+    "static/media/Uday's_Resume.pdf": "/static/media/Uday's_Resume.b9f91f3983f579914ae7.pdf",
+    "static/media/sp.webp": "/static/media/sp.4d12318aec2844a7e73a.webp",
+    "static/media/ezibuy.png": "/static/media/ezibuy.6d0ce150d0a8bca1d4d4.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.9a02cb1f148044e802a2.png",
+    "static/media/deccan.png": "/static/media/deccan.3f3829f12ba4e71d3406.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.50b432bb.css.map": "/static/css/main.50b432bb.css.map",
+    "main.06903838.js.map": "/static/js/main.06903838.js.map",
+    "511.81417624.chunk.js.map": "/static/js/511.81417624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50b432bb.css",
+    "static/js/main.06903838.js"
+  ]
+}
